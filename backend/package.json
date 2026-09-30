@@ -38,7 +38,7 @@
     "hono": "^4.10.6",
     "mime-types": "^3.0.1",
     "node-schedule": "^2.1.1",
-    "tsx": "^4.21.0",
+    "tsx": "^4.23.15",
     "webdav": "^5.8.0"
   },
   "devDependencies": {
@@ -46,7 +46,7 @@
     "@types/better-sqlite3": "^7.6.13",
     "cross-env": "^7.0.3",
     "typescript": "^5.9.3",
-    "wrangler": "^4.50.0"
+    "wrangler": "^4.144.0"
   },
   "optionalDependencies": {
     "sqlite": "^5.1.1",
